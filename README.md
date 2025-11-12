@@ -42,4 +42,5 @@ The goal is to evaluate the relationship between marketing activities and busine
 ---
 
 ## How to View
-Open the notebook directly on GitHub or through [nbviewer](https://nbviewer.org/github/AsafKatz1/ecommerce-marketing-analysis-2025/blob/main/Marketing_Customers_Project_AsafKatz.ipynb) for a cleaner display.
+Open the notebook directly on GitHub or through [nbviewer](https://nbviewer.org/github/AsafKatz1/ecommerce-marketing-analysis-2025/blob/main/Marketing_Customers_Project_AsafKatz.ipynb?flush=1
+) for a cleaner display.
