@@ -18,12 +18,8 @@ The goal is to evaluate the relationship between marketing activities and busine
 
 ---
 
-## Tools and Skills
+## Tools 
 - Python (pandas, numpy, statsmodels-formula, matplotlib, seaborn)
-- Cohort and retention analysis
-- Regression and seasonality adjustment
-- Data visualization and interpretation
-
 ---
 
 ## Key Findings
